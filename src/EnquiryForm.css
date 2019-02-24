@@ -1,0 +1,17 @@
+.enquiry-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.name, .password {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.button {
+  width: 100px;
+}
